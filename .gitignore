@@ -1,0 +1,6 @@
+.env
+config_baked.py
+build/
+dist/
+*.spec
+__pycache__/
